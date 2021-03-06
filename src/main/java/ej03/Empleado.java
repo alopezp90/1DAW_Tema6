@@ -1,4 +1,4 @@
-package ej3;
+package ej03;
 
 /**
  * @author Alberto López Puertas
